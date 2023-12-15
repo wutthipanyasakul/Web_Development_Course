@@ -1,0 +1,16 @@
+body {
+    background-color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+.centered {
+    top: 40%;
+    left: 50%;
+    font-size: 3em;
+    color: #459287;
+}
+
+p {
+    text-align: center;
+}
+
